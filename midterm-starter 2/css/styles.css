@@ -17,7 +17,6 @@ nav a {
 }
 
 main {
-    font-family:Luckiest Guy,Cursive;
     margin: 2rem;
     /* If we remove the default margin on the body element, we'll need to add some margin space to the main element. If we delete this, the main text will run right to the edge of the browser window. */
 }
