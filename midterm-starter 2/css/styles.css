@@ -1,13 +1,13 @@
 body {
     font-family:Shadows Into Light,Cursive;
    
-    /* This margin setting removes margins web browsers provide by default on the body element. Think of it like removing the default page margins in Microsoft Word so things like our header and footer can go right to the edge of the page. As an experiment, try deleting the line with the margin setting. After saving your changes, you should notice the blue header and footer are pushed away from edges of the browser, leaving white space around them. */
+ 
 }
 
 header {
     background: #CCCCFF;
     padding: 2rem;
-    /* This padding setting keeps the navigation links from being right against the edge of the header space. Remember! Margins add space around the outside of an element while padding adds space inside. As an experiment, try increasing the padding to 3 or 4 and adding margin: 2rem; on a new line. Then, save your file and note how your changes altered the look of the header. */
+   
 }
 
 nav a {
